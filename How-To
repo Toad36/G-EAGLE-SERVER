@@ -1,0 +1,15 @@
+------------------------------------Forge instalation-----------
+Download the forge installer provided in the files. Run the installer and make sure client is check and not server. DO NOT CHANGE THE FOLDER DESTINATION.
+Wait for the loader to complete and launch the minecraft lancher and verify you have the correct forge installed into the launcher, you should see forge
+show up left of the play button inside the launcher.
+
+
+
+---------------------------------MODS-----------------------------------------
+Create a folder on the desktop and name it MODS. Install all the listed mods into the created mod folder on your desk top. You will need to launch
+minecraft forge once to generate a mods folder inside forge directory. Once the game launches exit the game and open the minecraft launcher in the 
+top left hand side beside Play you should see a installations tab. Go into the installation tab and hover over the right side of the forge launcher 
+and click on the little file icon. Once inside you should see a mods folder open the folder and move all the mods from the MODS folder we created on
+the desktop over to the mods folder inside the forge directory. Once complete launch the game.
+
+
