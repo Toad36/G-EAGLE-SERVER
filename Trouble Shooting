@@ -1,0 +1,20 @@
+---------------------------Exit code 1 when launching forge 1.19.3-forge-44.1.23----------
+
+
+1. Try re-installing minecraft completly by deleting the launcher and the minecraft.exe from your system. Re-install minecraft launcher from the microsoft store.
+
+
+2.Double check that the java version is running java8. You can find the Java file by going to C:\Program Files (x86)\Java ///OR// C:\Program Files\Java.
+Once inside the directory you should see jre.1.8.0_361. If you do not, go to Javas website and intall the latest version.
+
+3.Re-installing java. Search apps in the windows search bar and find the java application on system. Click the application and uninstall. Follow the installation 
+steps in the above step.
+
+
+4.Verify all graphics drivers are up to date.
+
+
+
+
+
+
